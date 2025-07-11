@@ -1,6 +1,6 @@
-# ecom
+# E-Commerce App UI
 
-A new Flutter project.
+A Flutter project to learn UI in flutter.
 
 ## Getting Started
 
